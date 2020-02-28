@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue]●[/COLOR] [COLOR white][B]SEJA BEM-VINDO(A) AO HORIZONPLAY[/COLOR][/B] [COLOR blue]●[/COLOR]</name>
+<name>[COLOR blue][B]●[/COLOR] [COLOR white]SEJA BEM-VINDO(A) AO HORIZONPLAY[/COLOR] [COLOR blue]●[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -12,7 +12,7 @@
 
 <channels>
 <channel>
-<name>CANAIS</name>
+<name>[COLOR green][B]●[/COLOR]CANAIS[/B]</name>
 <thumbnail>https://i.imgur.com/g1r99zt.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/hrzgabriel/HorizonPlay/master/Canais</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -24,7 +24,7 @@
 
 <channels>
 <channel>
-<name>FILMES</name>
+<name>[COLOR orange][B]●[/COLOR]FILMES[/B]</name>
 <thumbnail>https://i.imgur.com/OAeJDkt.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -36,7 +36,7 @@
 
 <channels>
 <channel>
-<name>SÉRIES</name>
+<name>[COLOR orange][B]●[/COLOR]SÉRIES[/B]</name>
 <thumbnail>https://i.imgur.com/XxIPhlL.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>DESENHOS</name>
+<name>[COLOR orange][B]●[/COLOR]DESENHOS[/B]</name>
 <thumbnail>https://i.imgur.com/xrsbj2u.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -60,7 +60,7 @@
 
 <channels>
 <channel>
-<name>RÁDIOS</name>
+<name>[COLOR orange][B]●[/COLOR]RÁDIOS[/B]</name>
 <thumbnail>https://i.imgur.com/hezuCby.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
