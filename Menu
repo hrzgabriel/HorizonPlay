@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue]●[/COLOR] [COLOR white]SEJA BEM-VINDO(A) AO ADD-ON[/COLOR] [COLOR blue]●[/COLOR]</name>
+<name>[COLOR blue]●[/COLOR] [COLOR white][B]SEJA BEM-VINDO(A) AO HORIZONPLAY[/COLOR][/B] [COLOR blue]●[/COLOR]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -44,4 +44,26 @@
 </channel>
 </channels>
 
-===============================
+=============================== DESENHOS
+
+<channels>
+<channel>
+<name>DESENHOS</name>
+<thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
+<info>Animação refere-se ao processo, segundo o qual cada fotograma de um filme é produzido individualmente, podendo ser gerado tanto por computação gráfica quanto fotografando uma imagem desenhada ou repetidamente, fazendo-se pequenas mudanças a um modelo, fotografando o resultado.</info>
+</channel>
+</channels>
+
+=============================== RÁDIOS
+
+<channels>
+<channel>
+<name>RÁDIOS</name>
+<thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
+<info>As melhores rádios você confere aqui.</info>
+</channel>
+</channels>
