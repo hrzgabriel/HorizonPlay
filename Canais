@@ -1,10 +1,10 @@
 <channels>
 <channel>
-<name>ABERTOS</name>
+<name>[COLOR green][B]●[/COLOR]ABERTOS[/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
-<info></info>
+<info>[COLOR green][B]●[/COLOR] CANAIS ONLINE.[/B]</info>
 </channel>
 </channels>
 
@@ -12,11 +12,11 @@
 
 <channels>
 <channel>
-<name>DOCUMENTÁRIOS</name>
+<name>[COLOR orange][B]●[/COLOR]DOCUMENTÁRIOS[/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
-<info></info>
+<info>[COLOR orange][B]●[/COLOR] CANAIS EM MANUTENÇÃO.[/B]</info>
 </channel>
 </channels>
 
@@ -24,11 +24,11 @@
 
 <channels>
 <channel>
-<name>ESPORTES</name>
+<name>[COLOR red][B]●[/COLOR]ESPORTES[/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
-<info></info>
+<info>[COLOR red][B]●[/COLOR] SEM CANAIS.[/B]</info>
 </channel>
 </channels>
 
@@ -36,11 +36,11 @@
 
 <channels>
 <channel>
-<name>FILMES</name>
+<name>[COLOR red][B]●[/COLOR]FILMES[/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
-<info></info>
+<info>[COLOR red][B]●[/COLOR] SEM CANAIS.[/B]</info>
 </channel>
 </channels>
 
@@ -48,11 +48,11 @@
 
 <channels>
 <channel>
-<name>SÉRIES</name>
+<name>[COLOR red][B]●[/COLOR]SÉRIES[/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
-<info></info>
+<info>[COLOR red][B]●[/COLOR] SEM CANAIS.[/B]</info>
 </channel>
 </channels>
 
@@ -60,11 +60,11 @@
 
 <channels>
 <channel>
-<name>INFANTIL</name>
+<name>[COLOR red][B]●[/COLOR]INFANTIL[/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
-<info></info>
+<info>[COLOR red][B]●[/COLOR] SEM CANAIS.[/B]</info>
 </channel>
 </channels>
 
@@ -72,12 +72,10 @@
 
 <channels>
 <channel>
-<name>NOTÍCIAS</name>
+<name>[COLOR red][B]●[/COLOR]NOTÍCIAS[/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
-<info></info>
+<info>[COLOR red][B]●[/COLOR] SEM CANAIS.[/B]</info>
 </channel>
 </channels>
-
-===============================
