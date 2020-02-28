@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR cyan][B]●[/COLOR] [COLOR white]SEJA BEM-VINDO(A) AO HORIZON[/COLOR][COLOR cyan]PLAY[/COLOR] [COLOR cyan]●[/COLOR][/B]</name>
+<name>[COLOR cyan][B]●[/COLOR] [COLOR white]SEJA BEM-VINDO(A) AO HORIZON[/COLOR][COLOR cyan]PLAY[/COLOR] [COLOR white]●[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/arAS7fU.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -24,7 +24,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered][B]●[/COLOR] FILMES[/B]</name>
+<name>[COLOR red][B]●[/COLOR] FILMES[/B]</name>
 <thumbnail>https://i.imgur.com/OAeJDkt.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -36,7 +36,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered][B]●[/COLOR] SÉRIES[/B]</name>
+<name>[COLOR red][B]●[/COLOR] SÉRIES[/B]</name>
 <thumbnail>https://i.imgur.com/XxIPhlL.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered][B]●[/COLOR] DESENHOS[/B]</name>
+<name>[COLOR red][B]●[/COLOR] DESENHOS[/B]</name>
 <thumbnail>https://i.imgur.com/xrsbj2u.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -60,10 +60,10 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered][B]●[/COLOR] RÁDIOS[/B]</name>
+<name>[COLOR red][B]●[/COLOR] RÁDIOS[/B]</name>
 <thumbnail>https://i.imgur.com/hezuCby.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
-<info>[COLOR red]●[/COLOR] SEM RÁDIOS.</info>
+<info>SEM RÁDIOS.</info>
 </channel>
 </channels>
