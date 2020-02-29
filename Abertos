@@ -55,8 +55,8 @@
 ====================== TV BRASIL
 
 <item>
-<title>[B]TV BRASIL [COLOR cyan]SD[/COLOR][/B]</title>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/20482.m3u8</link>
+<title>[B]TV BRASIL [COLOR cyan]HD[/COLOR][/B]</title>
+<link>http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/chunklist_b544768.m3u8</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbrasil.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>TV Brasil é uma rede de televisão pública brasileira. Pertence à Empresa Brasil de Comunicação, que por sua vez é operada pelo Governo Federal.</info>
