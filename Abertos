@@ -2,8 +2,8 @@
 
 <item>
 <title>[B]BAND[/B]</title>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/6882.m3u8$$lsname=[COLOR gold]HD[/COLOR]</link>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/20875.m3u8$$lsname=[COLOR gold]SD[/COLOR]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/6882.m3u8$$lsname=[B]BAND [COLOR cyan]HD[/COLOR][/B]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/20875.m3u8$$lsname=[B]BAND [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png</thumbnail>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
 <info>A Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes de Comunicação. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio Bandeirantes.</info>
@@ -13,8 +13,8 @@
 
 <item>
 <title>[B]GLOBO RJ[/B]</title>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/6113.m3u8$$lsname=[COLOR gold]HD[/COLOR]</link>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/7547.m3u88$$lsname=[COLOR gold]SD[/COLOR]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/6113.m3u8$$lsname=[B]GLOBO [COLOR cyan]HD[/COLOR][/B]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/7547.m3u88$$lsname=[B]GLOBO [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png</thumbnail>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
 <info>Rede Globo é uma rede de televisão comercial aberta brasileira com sede na cidade do Rio de Janeiro. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
@@ -24,8 +24,8 @@
 
 <item>
 <title>[B]RECORD RJ[/B]</title>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/25543.m3u8$$lsname=[COLOR gold]HD[/COLOR]</link>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/39264.m3u8$$lsname=[COLOR gold]SD[/COLOR]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/25543.m3u8$$lsname=[B]RECORD [COLOR cyan]HD[/COLOR][/B]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/39264.m3u8$$lsname=[B]RECORD [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png</thumbnail>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
 <info>RecordTV é uma rede de televisão comercial aberta brasileira com sede na cidade de São Paulo. Fundada em 27 de setembro de 1953 pelo empresário e comunicador Paulo Machado de Carvalho.</info>
@@ -35,8 +35,8 @@
 
 <item>
 <title>[B]REDE TV![/B]</title>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/6940.m3u8$$lsname=[COLOR gold]HD[/COLOR]</link>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/4420.m3u8$$lsname=[COLOR gold]SD[/COLOR]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/6940.m3u8$$lsname=[B]REDE TV! [COLOR cyan]HD[/COLOR][/B]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/4420.m3u8$$lsname=[B]REDE TV! [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png</thumbnail>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
 <info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
@@ -46,8 +46,8 @@
 
 <item>
 <title>[B]SBT RJ[/B]</title>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/25544.m3u8$$lsname=[COLOR gold]HD[/COLOR]</link>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/4331.m3u8$$lsname=[COLOR gold]SD[/COLOR]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/25544.m3u8$$lsname=[B]SBT [COLOR cyan]HD[/COLOR][/B]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/4331.m3u8$$lsname=[B]SBT [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png</thumbnail>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
 <info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
@@ -55,7 +55,7 @@
 ====================== TV BRASIL
 
 <item>
-<title>[B]TV BRASIL [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B]TV BRASIL [COLOR cyan]SD[/COLOR][/B]</title>
 <link>http://srv.tvprodigital.net:80/live/325688/325688/20482.m3u8</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbrasil.png</thumbnail>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
@@ -65,7 +65,7 @@
 ====================== TV CULTURA
 
 <item>
-<title>[B]TV CULTURA [COLOR gold]SD[/COLOR][/B]</title>
+<title>[B]TV CULTURA [COLOR cyan]SD[/COLOR][/B]</title>
 <link>http://srv.tvprodigital.net:80/live/325688/325688/4412.m3u8</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png</thumbnail>
 <fanart>https://i.imgur.com/rUs6sVn.jpg</fanart>
