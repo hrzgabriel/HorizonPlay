@@ -1,0 +1,23 @@
+=============================== Google Drive
+
+<channels>
+<channel>
+<name>[COLOR lawngreen][B]●[/COLOR] FILMES | [COLOR gold]GOOGLE DRIVE[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/HYrS3q4.png</thumbnail>
+<externallink></externallink>
+<fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
+<info>FILMES CARREGADOS VIA [COLOR gold]GOOGLE DRIVE[/COLOR].</info>
+</channel>
+</channels>
+
+=============================== Torrent
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/COLOR] FILMES | [COLOR lawngreen]TORRENT[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/HYrS3q4.png</thumbnail>
+<externallink></externallink>
+<fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
+<info>FILMES CARREGADOS VIA [COLOR lawngreen]TORRENT[/COLOR].</info>
+</channel>
+</channels>
