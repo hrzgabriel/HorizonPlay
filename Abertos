@@ -2,8 +2,8 @@
 
 <item>
 <title>[B]BAND[/B]</title>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/6882.m3u8$$lsname=[B]BAND [COLOR cyan]HD[/COLOR][/B]</link>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/20875.m3u8$$lsname=[B]BAND [COLOR cyan]SD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?name=HorizonPlay&streamtype=TSDOWNLOADER&amp;url=http://srv.tvprodigital.net:80/live/325688/325688/6882.m3u8$$lsname=[B]BAND [COLOR cyan]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?name=HorizonPlay&streamtype=TSDOWNLOADER&amp;url=http://srv.tvprodigital.net:80/live/325688/325688/20875.m3u8$$lsname=[B]BAND [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>A Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes de Comunicação. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio Bandeirantes.</info>
@@ -14,7 +14,7 @@
 <item>
 <title>[B]GLOBO RJ[/B]</title>
 <link>http://srv.tvprodigital.net:80/live/325688/325688/6113.m3u8$$lsname=[B]GLOBO [COLOR cyan]HD[/COLOR][/B]</link>
-<link>http://srv.tvprodigital.net:80/live/325688/325688/7547.m3u88$$lsname=[B]GLOBO [COLOR cyan]SD[/COLOR][/B]</link>
+<link>http://srv.tvprodigital.net:80/live/325688/325688/7547.m3u8$$lsname=[B]GLOBO [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>Rede Globo é uma rede de televisão comercial aberta brasileira com sede na cidade do Rio de Janeiro. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
