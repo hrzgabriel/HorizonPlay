@@ -2,8 +2,8 @@
 
 <item>
 <title>[B]BAND[/B]</title>
-<link>plugin://plugin.video.f4mTester/?name=HorizonPlay&streamtype=HLSRETRY&amp;url=http://srv.tvprodigital.net:80/live/325688/325688/6882.m3u8$$lsname=[B]BAND [COLOR cyan]HD[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?name=HorizonPlay&streamtype=HLSRETRY&amp;url=http://srv.tvprodigital.net:80/live/325688/325688/20875.m3u8$$lsname=[B]BAND [COLOR cyan]SD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv.tvprodigital.net:80/live/325688/325688/6882.m3u8$$lsname=[B]BAND [COLOR cyan]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://srv.tvprodigital.net:80/live/325688/325688/20875.m3u8&amp;streamtype=TSDOWNLOADER;name=HorizonPlay$$lsname=[B]BAND [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>A Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes de Comunicação. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio Bandeirantes.</info>
