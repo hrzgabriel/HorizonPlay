@@ -2,30 +2,34 @@
 
 <item>
 <title>[B]BAND[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://list.deeplist.nl/live/fer001/techruthes021/1207.m3u8$$lsname=[B]BAND [COLOR cyan]HD[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/fer001/techruthes021/1207.m3u8&amp;streamtype=TSDOWNLOADER;name=HorizonPlay$$lsname=[B]BAND [COLOR cyan]SD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/52595.m3u8&amp;streamtype=HLSRETRY&name=BAND SP$$lsname=[B]BAND SP[COLOR cyan]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/1713.m3u8&amp;streamtype=HLSRETRY&name=BAND SP$$lsname=[B]BAND SP[COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>A Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes de Comunicação. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio Bandeirantes.</info>
 <item>
 
-====================== GLOBO RJ
+====================== GLOBO
 
 <item>
-<title>[B]GLOBO RJ[/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/fer001/techruthes021/1207.m3u8&amp;streamtype=HLSRETRY&name=[/B]</link>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/170.ts&amp;streamtype=TSDOWNLOADER$$lsname=[B]GLOBO [COLOR cyan]SD[/COLOR][/B]</link>
+<title>[B]GLOBO[/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/1207.m3u8&amp;streamtype=HLSRETRY&name=GLOBO RJ$$lsname=[B]GLOBO RJ[COLOR cyan]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/38661.m3u8&amp;streamtype=HLSRETRY&name=GLOBO RJ$$lsname=[B]GLOBO RJ[COLOR cyan]SD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/17122.m3u8&amp;streamtype=HLSRETRY&name=GLOBO SP$$lsname=[B]GLOBO SP[COLOR cyan]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/38657.m3u8&amp;streamtype=HLSRETRY&name=GLOBO SP$$lsname=[B]GLOBO SP[COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>Rede Globo é uma rede de televisão comercial aberta brasileira com sede na cidade do Rio de Janeiro. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.</info>
 <item>
 
-====================== RECORD RJ
+====================== RECORD
 
 <item>
-<title>[B]RECORD RJ[/B]</title>
-<link>$$lsname=[B]RECORD [COLOR cyan]HD[/COLOR][/B]</link>
-<link>$$lsname=[B]RECORD [COLOR cyan]SD[/COLOR][/B]</link>
+<title>[B]RECORD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/29371.m3u8&amp;streamtype=HLSRETRY&name=NomeDoCanal$$lsname=RECORD RJ$$lsname=[B]RECORD RJ[COLOR cyan]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/38767.m3u8&amp;streamtype=HLSRETRY&name=NomeDoCanal$$lsname=RECORD RJ$$lsname=[B]RECORD RJ[COLOR cyan]SD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/1210.m3u8&amp;streamtype=HLSRETRY&name=NomeDoCanal$$lsname=RECORD SP$$lsname=[B]RECORD SP[COLOR cyan]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/38765.m3u8&amp;streamtype=HLSRETRY&name=NomeDoCanal$$lsname=RECORD SP$$lsname=[B]RECORD SP[COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>RecordTV é uma rede de televisão comercial aberta brasileira com sede na cidade de São Paulo. Fundada em 27 de setembro de 1953 pelo empresário e comunicador Paulo Machado de Carvalho.</info>
@@ -35,18 +39,18 @@
 
 <item>
 <title>[B]REDE TV! [COLOR cyan]SD[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1675943173.m3u8&amp;streamtype=HLSRETRY&name=</link>
+<link>plugin://plugin.video.f4mTester/?url=http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1675943173.m3u8&amp;streamtype=HLSRETRY&name=REDE TV!</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
 <item>
 
-====================== SBT RJ
+====================== SBT
 
 <item>
-<title>[B]SBT RJ[/B]</title>
-<link>$$lsname=[B]SBT [COLOR cyan]HD[/COLOR][/B]</link>
-<link>$$lsname=[B]SBT [COLOR cyan]SD[/COLOR][/B]</link>
+<title>[B]SBT[/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/1208.m3u8&amp;streamtype=HLSRETRY&name=SBT HD$$lsname=[B]SBT [COLOR cyan]HD[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?url=http://list.deeplist.nl/live/alex1020/ruthes021/38920.m3u8&amp;streamtype=HLSRETRY&name=SBT SD$$lsname=[B]SBT [COLOR cyan]SD[/COLOR][/B]</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
@@ -55,7 +59,7 @@
 
 <item>
 <title>[B]TV BRASIL [COLOR cyan]HD[/COLOR][/B]</title>
-<link></link>
+<link>plugin://plugin.video.f4mTester/?url=http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8&amp;streamtype=HLSRETRY&name=TV BRASIL</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbrasil.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>TV Brasil é uma rede de televisão pública brasileira. Pertence à Empresa Brasil de Comunicação, que por sua vez é operada pelo Governo Federal.</info>
@@ -65,7 +69,7 @@
 
 <item>
 <title>[B]TV CULTURA [COLOR cyan]SD[/COLOR][/B]</title>
-<link></link>
+<link>plugin://plugin.video.f4mTester/?url=http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8?formigatv&amp;streamtype=HLSRETRY&name=TV CULTURA</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/cultura.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo.</info>
