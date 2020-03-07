@@ -39,7 +39,7 @@
 
 <item>
 <title>[B]REDE TV! [COLOR cyan]SD[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?name=Rede TV!&streamtype=HLSRETRY&amp;url=http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1675943173.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=RedeTV!;url=http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1675943173.m3u8</link>
 <thumbnail>http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png</thumbnail>
 <fanart>https://i.imgur.com/O50iQEC.jpg</fanart>
 <info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
